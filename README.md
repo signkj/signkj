@@ -1,4 +1,9 @@
-### Hi there 👋
+### 자유를 갈망하는 개발자 👋
+
+## 일을 하기 위해서 개발하는 것이 아니라..
+## 꿈을 꾸기 위해서 개발하는 거이야
+
+
 
 <!--
 **signkj/signkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
