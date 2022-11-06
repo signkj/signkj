@@ -1,12 +1,14 @@
-## 자유를 갈망하는 개발자 👋
+## 👋 Developers yearning for freedom 👋
 
-### 일을 하기 위해서 개발하는 것이 아니라..
-### 꿈을 꾸기 위해서 개발하는 거이야
+### Don't develop to work, develop to dream
 
-개발언어
 
-- ✨ NodeJS, React Native ✨
+Develop Language
 
+- ✨ NodeJS, NestJS
+- ✨ React Native
+- React
+- RxJS
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
