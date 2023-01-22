@@ -4,7 +4,7 @@
 
 
 Develop Language
-- ✨ Visual C++, C, C#, Python
+- ✨ Visual C++, C, C#, Python, MFC
 - ✨ NodeJS, NestJS
 - ✨ React Native
 - React
