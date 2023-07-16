@@ -7,8 +7,8 @@ Develop Language
 - ✨ Visual C++, C, C#, Python, MFC
 - ✨ NodeJS, NestJS
 - ✨ React Native
-- React
-- RxJS
+- ✨ React
+- ✨ RxJS
 
 DataBase
 - ✨ Postgresql
